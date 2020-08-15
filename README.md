@@ -1,4 +1,4 @@
-Guidelines:-)
+Guidelines: -)
  
 Read below to see how you can join an existing project or create your own.
 

@@ -1,6 +1,6 @@
                     Contributing to Tech-Hub projects
 ==============================================================================
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:  
+:+1::yipyip: First off, thanks for taking the time to contribute! :yipyip::+1:  
 If you'd like to report a bug or join in the development
 of Tech-Hub, then here are some notes on how to do that.
 

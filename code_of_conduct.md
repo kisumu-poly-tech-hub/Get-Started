@@ -53,6 +53,6 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 This Code of Conduct is adapted from the Tech-Hub Constitution and Policy.
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/)and the 
-[Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+[Geek Feminism Anti-Harassment Policy](https://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 
 

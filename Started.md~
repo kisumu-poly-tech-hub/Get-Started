@@ -6,10 +6,8 @@ Getting started with open-source can be a difficult task, not only because we ar
 
 It may appear a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
-* First off FORK this repo into your account, edit [Contributors](https://github.com/orgs/kisumu-poly-tech-hub/) file to add your name then 
- send pull request.
-# Community Collaboration Projects
 
+# Community Collaboration Projects
 We would like to start some community lead projects.
 Providing the opportunity for you to flex your developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
 - **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
@@ -18,16 +16,15 @@ Providing the opportunity for you to flex your developer muscles, whilst working
 
 
 # How You Benefit
-
 Along with learning new skills, you will also gain experience on projects you can start to list on your Resume/CV. In addition, you will build out your commit history on Github, which employers love! But most importantly, you will learn to work in teams which is one of the most important skills to be a top developer.
 
 
 ## What is open source?
------------------------
+
 Open source is the original way of creating software – in an open, transparent and collaborative manner. “[What is free software?](https://www.gnu.org/philosophy/free-sw.en.html)" and “[What is open source?](https://opensource.com/resources/what-open-source)" are good overviews of the subject.
 
 ## Why would I want to contribute?
-----------------------------------
+
 Here, practicing would be our primary objective but there are also many pragmatic reasons for contributing to open source projects:
 
    **1.** To add a new feature / improvement to a project; or to fix an issue with a project.
@@ -39,7 +36,7 @@ Here, practicing would be our primary objective but there are also many pragmati
    **4.** To build your online presence – highlighting open source contributions relevant to the job makes your resume stand out from the rest.
 
 ## How can I contribute to projects?
-------------------------------------
+
 **1.** **Test :**  Start with testing the code for any bugs, if found raise an issue about it. (Always check first if someone has already raised an issue for the same.)
 
 **2.** **Suggest features:** Look for possible improvements and provide suggestions in the comment section.

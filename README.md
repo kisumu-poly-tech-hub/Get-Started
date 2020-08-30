@@ -39,13 +39,13 @@ A project also has documentation. These files are usually listed in the top leve
 **Pull requests**: Where people discuss and review changes that are in progress.
 
 Also see.
-[code_of_conduct](https://github.com/kisumu-poly-tech-hub/Get-Started/blob/master/code_of_conduct.md)
+[code_of_conduct](/code_of_conduct.md)
 
-[Started](https://github.com/kisumu-poly-tech-hub/Get-Started/blob/master/Started.md)
+[Started](/Started.md)
 
-[CONTRIBUTING](https://github.com/kisumu-poly-tech-hub/Get-Started/blob/master/CONTRIBUTING.md)
+[CONTRIBUTING](/CONTRIBUTING.md)
 
-[contributors](https://github.com/kisumu-poly-tech-hub/Get-Started/blob/master/contributors.md)
+[contributors](/contributors.md)
 
 Readme🤔 ....Readyou🌝 read...🐿🐾
 

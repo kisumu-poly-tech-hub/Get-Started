@@ -6,8 +6,9 @@ Getting started with open-source can be a difficult task, not only because we ar
 
 It may appear a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
-* First off FORK this repo into your account, edit [Contributors](https://github.com/orgs/kisumu-poly-tech-hub/) file to add your name then 
- send pull request.
+* First off FORK this repo into your account, [!IMPORTANT] create your brunch, edit 
+[Contributors](/contributors.md) file to add your name then send pull request.
+
 # Community Collaboration Projects
 
 We would like to start some community lead projects.

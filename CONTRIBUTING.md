@@ -28,7 +28,7 @@ to get your changes merged into any of our projects.
 
 If you've got an idea for a change then please discuss it in the open first, 
 either by opening an issue, or by joining us in our [Telegram Page]
-(\|  [![Telegram](https://telegram.org/img/t_logo.png)](https://t.me/joinchat/Fkwt1xJoduMWrku8r-JtqA))
+(\|[![Telegram](https://telegram.org/img/t_logo.png)](https://t.me/joinchat/Fkwt1xJoduMWrku8r-JtqA))
 or inbox the admins there [Telegram]. If no one is online[Expect it] then you can still leave a message that will hopefully get a reply
 when we return.
 
@@ -53,4 +53,4 @@ when we return.
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
 
-***For more see [Contributers](https://github.com/orgs/kisumu-poly-tech-hub/) file.
+***For more see [Contributers](/contributors.md) file.

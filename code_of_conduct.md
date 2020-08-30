@@ -1,11 +1,11 @@
 #                                         Contributor Covenant Code of Conduct
-===========================================================================================================================================
+===================================================================================================
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 ## 1. Our Purpose
 -----------------
-The primary goal of Tech Hub to it's community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible.In the interest of fostering an open and welcoming environment, we as contributors and maintainers are committed to providing a friendly, safe and welcoming participation environment in our project and our community a harassment-free experience for all, regardless of gender, sexual orientation, ability, race, ethnicity, level of experience, socioeconomic status, and religion.
+The primary goal of Tech Hub to it's community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds as possible. In the interest of fostering an open and welcoming environment, we as contributors and maintainers are committed to providing a friendly, safe and welcoming participation environment in our project and our community a harassment-free experience for all, regardless of gender, sexual orientation, ability, race, ethnicity, level of experience, socioeconomic status, and religion.
 
 
 ## 2. Our Standards
@@ -52,7 +52,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 ## 6. Attribution
 -----------------
 This Code of Conduct is adapted from the Tech-Hub Constitution and Policy.
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/)and the 
+Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the 
 [Geek Feminism Anti-Harassment Policy](https://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 
 
